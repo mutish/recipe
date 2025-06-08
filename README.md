@@ -112,5 +112,5 @@ I would like to focus on styling, its becoming a challenge for me.
 
 ## Author
 
-- Frontend Mentor - [@mutish]([https://www.frontendmentor.io/profile/mutish])
+- Frontend Mentor - [@mutish](https://www.frontendmentor.io/profile/mutish)
 
