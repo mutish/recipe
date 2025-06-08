@@ -27,7 +27,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [https://github.com/mutish/recipe.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://mellifluous-hummingbird-3f2a84.netlify.app/]
 
 ## My process
 
@@ -112,6 +112,5 @@ I would like to focus on styling, its becoming a challenge for me.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
