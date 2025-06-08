@@ -1,0 +1,124 @@
+@font-face {
+  font-family: 'Outfit';
+  src: url('/assets/fonts/outfit/Outfit-VariableFont_wght.ttf');
+  font-weight: 400, 600, 700;
+}
+
+@font-face {
+  font-family: 'Young Serif';
+  src: url('assets/fonts/young-serif/YoungSerif-Regular.ttf');
+  font-weight: 400;
+}
+
+body {
+      margin: 0;
+      background-color:  hsl(30, 54%, 90%);
+      display: flex;
+}
+
+.container{
+      background-color: hsl(30, 54%, 90%);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 1rem 1rem;
+}
+
+.card {
+      max-width: 700px;
+      background-color: white;
+      border-radius: 32px;
+      overflow: hidden;
+      padding: 2rem;
+      margin: 2rem;
+}
+
+.card img {
+      width: 100%;
+      border-radius: 12px;
+      margin-bottom: 1.5rem;
+}
+
+.card-title h2 {
+      font-family: 'Young Serif';
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+}
+
+.card-body p {
+      color: hsl(30, 10%, 34%);
+      font-size: 16px;
+      margin-bottom: 1.5rem;
+      font-family: 'Outfit';
+}
+
+.preparation {
+      background-color: hsl(330, 100%, 98%);
+      padding: 1rem;
+      border-radius: 12px;
+      margin-bottom: 1.5rem;
+      font-size: small;
+      font-family: 'Outfit';
+}
+
+.preparation ul {
+      padding-left: 1.2rem;
+}
+
+.preparation h4 {
+      font-family: 'Outfit';
+      font-size: 16px;
+      margin-top: 0.3rem;
+      color: hsl(332, 51%, 32%);
+}
+
+.nutrition p {
+      font-family:'Outfit' ;
+      font-size: 16px;
+      color: hsl(30, 10%, 34%);
+
+}
+
+.card-body h3{
+      font-family: 'Young Serif';
+      font-weight: 400;
+      color: hsl(14, 45%, 36%);
+}
+
+ul, ol {
+      margin-top: 0.5rem;
+      padding-left: 1.2rem;
+      font-family: 'Outfit';
+      color: hsl(30, 10%, 34%)
+}
+
+ol li {
+      margin-bottom: 0.8rem;
+}
+
+
+b {
+      font-weight: bold;
+      color: hsl(24, 5%, 18%);
+ }
+
+.ntable {
+      margin-top: 1rem;
+      width: 100%;
+      border-collapse: collapse;
+      font-family: 'Outfit';
+}
+
+.ntable td {
+      padding: 0.5rem;
+      border-bottom: 1px solid hsl(14, 45%, 36%);
+      font-weight: bold;
+      color: hsl(14, 45%, 36%);
+}
+.attribution{
+      font-family: 'Outfit';
+      font-size: smaller;
+      align-content: center;
+
+}
